@@ -15,7 +15,7 @@ function checkNumber(n) {
       console.log("Input tidak valid");
     }
   }
-    // Test inputs
+    // value output
   checkNumber(5); // satuan
   checkNumber(1000); // ribuan
   checkNumber(-1000); // gak valid
