@@ -16,7 +16,6 @@ function checkNumber(n) {
     }
   }
     // Test inputs
-  checkNumber(5); //
-  checkNumber(1000);
-  checkNumber(-1000);
-// comment
+  checkNumber(5); // satuan
+  checkNumber(1000); // ribuan
+  checkNumber(-1000); // gak valid
